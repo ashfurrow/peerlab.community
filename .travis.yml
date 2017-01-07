@@ -9,7 +9,7 @@ before_install:
   - chmod 600 ~/.netrc
 
 script:
-  - bundle exec rake build
+  - echo "No Tests."
 
 after_success:
-  - bundle exec rake travis ALLOW_DIRTY=true
+  - bundle exec rake travis
