@@ -12,4 +12,4 @@ script:
   - echo "No Tests."
 
 after_success:
-  - bundle exec rake travis
+  - bundle exec rake travis ALLOW_DIRTY=true
