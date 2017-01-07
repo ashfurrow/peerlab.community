@@ -5,8 +5,33 @@
     <meta charset="utf-8">
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 
-    <!-- Use title if it's in the page YAML frontmatter -->
-    <title><%= current_page.data.title %></title>
+    <% this_url = "http://peerlab.community#{current_resource.url}" %>
+    <% description = data.site.description %>
+    <% title = current_page.data.title %>
+
+    <title><%= title %></title>
+
+    <meta itemprop="canonical" href="<%= this_url %>" />
+    <meta itemprop="name" content="<%= title %>" />
+    <meta itemprop="url" content="<%= this_url %>" />
+    <meta itemprop="about" content="<%= description %>" />
+    <meta itemprop="description" content="<%= description %>" />
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="<%= data.site.name %>" />
+    <meta property="og:title" content="<%= title %>" />
+    <meta property="og:url" content="<%= this_url %>" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="<%= description %>" />
+    <meta property="og:image" content="http://peerlab.community/images/intro-bg.jpg" />
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@ashfurrow" />
+    <meta name="twitter:creator" content="@ashfurrow" />
+    <meta name="twitter:title" content="<%= title %>" />
+    <meta name="twitter:description" content="<%= description %>" />
+    <meta name="twitter:image" content="http://peerlab.community/images/intro-bg.jpg" />
 
     <%= stylesheet_link_tag :bootstrap %>
     <%= stylesheet_link_tag :site %>
