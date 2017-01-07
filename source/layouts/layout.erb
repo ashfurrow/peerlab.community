@@ -6,15 +6,17 @@
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 
     <!-- Use title if it's in the page YAML frontmatter -->
-    <title><%= current_page.data.title || "Middleman" %></title>
+    <title><%= current_page.data.title %></title>
 
-    <link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
-
+    <%= stylesheet_link_tag :bootstrap %>
     <%= stylesheet_link_tag :site %>
-    <%= javascript_include_tag :all %>
+    <script src="https://use.fontawesome.com/7f6339dc59.js"></script>
   </head>
 
   <body class="<%= page_classes %>">
     <%= yield %>
+
+    <%= javascript_include_tag :jquery %>
+    <%= javascript_include_tag :bootstrap %>
   </body>
 </html>
