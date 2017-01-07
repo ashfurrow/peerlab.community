@@ -12,4 +12,4 @@ script:
   - bundle exec rake build
 
 after_success:
-  - bundle exec rake travis
+  - bundle exec rake travis ALLOW_DIRTY=true
