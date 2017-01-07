@@ -1,0 +1,14 @@
+language: ruby
+
+cache:
+  - bundler
+
+before_install:
+  - echo -e "machine github.com\n  login ci-user\n  password $GITHUB_API_KEY" >> ~/.netrc
+  - chmod 600 ~/.netrc
+
+script:
+  - rake build
+
+after_success:
+  - rake travis
