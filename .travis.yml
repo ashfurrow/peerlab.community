@@ -9,7 +9,7 @@ before_install:
   - chmod 600 ~/.netrc
 
 script:
-  - rake build
+  - bundle exec rake build
 
 after_success:
-  - rake travis
+  - bundle exec rake travis

@@ -1,7 +1,7 @@
 require 'middleman-gh-pages'
 require 'rake'
 
-desc "Deploy if Travis environment variables are set correctly"
+desc "Deploy if Travis environment variables are set correctly."
 task :travis do
   branch = ENV['TRAVIS_BRANCH']
   pull_request = ENV['TRAVIS_PULL_REQUEST']
