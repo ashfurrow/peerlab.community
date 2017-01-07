@@ -5,8 +5,11 @@ cache:
   - bundler
 
 before_install:
+  # Only necessary for deploys.
   - echo -e "machine github.com\n  login ci-user\n  password $GITHUB_API_KEY" >> ~/.netrc
   - chmod 600 ~/.netrc
+  - git config --global user.email "ash@ashfurrow.com"
+  - git config --global user.name "Ash Furrow (via Travis)"
 
 script:
   - echo "No Tests."
