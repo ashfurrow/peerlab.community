@@ -25,4 +25,4 @@ This repository adheres to the [Contributor Covenant 1.4.0](http://contributor-c
 
 Thanks to [Samuel Goodwin](https://twitter.com/samuelgoodwin/) for inspiring me to start my own peer lab.
 
-Thanks to [Start Bootstrap](https://startbootstrap.com/template-overviews/landing-page/) for the theme.
+Thanks to [Start Bootstrap](https://startbootstrap.com/template-overviews/landing-page/) for the theme. Photos purchased from Adobe Stock.
