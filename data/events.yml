@@ -1,0 +1,17 @@
+peer_labs:
+  - city: New York
+    schedule: Every Saturday, 10:30am
+    location: Artsy, 401 Broadway, Floor 25
+    meetup_url: https://www.meetup.com/CocoaPods-NYC/
+    contact_twitter: ashfurrow
+    contact_email: ash@ashfurrow.com
+
+  - city: Amsterdam
+    schedule: Every Saturday, 9:00am
+    location: The Coffee Room, Kinkerstraat 110
+    meetup_url: https://www.meetup.com/Appsterdam/
+    contact_twitter: samuelgoodwin
+
+  - city: London
+    schedule: A Monday every month, 7:00pm
+    meetup_url: https://www.meetup.com/swiftlondon/

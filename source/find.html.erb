@@ -9,7 +9,6 @@ title: Find a Peer Lab
       <div class="col-lg-12">
         <div class="intro-message">
           <h1>Find a Peer Lab</h1>
-          <hr class="intro-divider">
         </div>
       </div>
     </div>
@@ -18,13 +17,40 @@ title: Find a Peer Lab
 </div>
 <!-- /.intro-header -->
 
-<!-- Page Content -->
-<div class="content-section-a">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-5 col-sm-6">
-        TODO: Add content
+<% data.events.peer_labs.each_with_index do |event, index| %>
+  <div class="content-section-<%= (index % 2 == 0) ? 'a' : 'b' %>">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h2 class="section-heading"><%= event.city %></h2>
+          <% if event.schedule %>
+            <h4><%= event.schedule %></h3>
+          <% end %>
+          <% if event.location || event.meetup_url || event.contact_email || event.contact_twitter %>
+            <p class="lead">
+              <% if event.location %>
+                <%= event.location %>.
+              <% end %>
+              <% if event.meetup_url %>
+                More info <a href="<%= event.meetup_url %>">available here</a>. 
+              <% end %>
+              <% if event.contact_email || event.contact_twitter %>
+                <% contact = "For questions, " %> 
+                <% if event.contact_email %> 
+                  <% contact += "email <a href='mailto:#{event.contact_email}'>#{event.contact_email}</a>"%>
+                <% end %>
+                <% if event.contact_email && event.contact_twitter %>
+                  <% contact += ' or ' %>
+                <% end %>
+                <% if event.contact_twitter %> 
+                  <% contact += "tweet at <a href='https://twitter.com/#{event.contact_twitter}'>@#{event.contact_twitter}</a>"%>
+                <% end %>
+                <%= contact %>.
+              <% end %>
+            </p>
+          <% end %>
+        </div>
       </div>
     </div>
   </div>
-</div>
+<% end %>

@@ -2,9 +2,22 @@
 
 [![Build Status](https://travis-ci.org/ashfurrow/peerlab.community.svg?branch=master)](https://travis-ci.org/ashfurrow/peerlab.community)
 
+## Adding Your Peer Lab
+
+Adding your peer lab is a straightforward process: you need to add it to the [`events.yml`](https://github.com/ashfurrow/peerlab.community/blob/master/data/events.yml) file in this repository. The only field that's strictly required is the `city`, but the more info you can add the better. Use the existing entries as examples.
+
+| Field | Description |
+|-------|-------------|
+| `city` | What city is your peer lab located in? |
+| `schedule` | How often do you meet? When? |
+| `location` | Where do you meet? |
+| `meetup_url` | A URL to link to (doesn't need to be a Meetup.com URL). |
+| `contact_twitter` | If someone has questions, who should they tweet? |
+| `contact_email` | If someone has questions, who should they email? |
+
 ## Contributing
 
-Deploys happen automatically after every merged pull request. 
+Deploys happen automatically after every merged pull request.
 
 This repository adheres to the [Contributor Covenant 1.4.0](http://contributor-covenant.org/version/1/4/).
 
