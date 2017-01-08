@@ -7,8 +7,9 @@
 # Ignore bundler config
 /.bundle
 
-# Ignore the build directory
+# Ignore the build/test directories
 /build
+/test
 
 # Ignore cache
 /.sass-cache

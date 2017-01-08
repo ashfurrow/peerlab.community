@@ -12,7 +12,7 @@ before_install:
   - git config --global user.name "Ash Furrow (via Travis)"
 
 script:
-  - echo "No Tests."
+  - bundle exec rake test
 
 after_success:
   - bundle exec rake travis ALLOW_DIRTY=true

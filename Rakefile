@@ -21,6 +21,11 @@ task :travis do
   Rake::Task['publish'].invoke
 end
 
+desc "Builds the site in the ./test directory."
+task :test do
+  sh "bundle exec middleman build --build-dir=test"
+end
+
 desc "Start middleman server"
 task :server do
   puts "Starting Middleman server"
