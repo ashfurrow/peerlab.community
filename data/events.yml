@@ -25,6 +25,6 @@ peer_labs:
 
   - city: Whitby, ON
     schedule: Every Monday night, 7pm - 10pm
-  	location: Coffee Culture, 1525 Dundas St E., Whitby ON
-  	contact_twitter: aaronvegh
-  	contact_email: aaron@vegh.ca
+    location: Coffee Culture, 1525 Dundas St E., Whitby ON
+    contact_twitter: aaronvegh
+    contact_email: aaron@vegh.ca
