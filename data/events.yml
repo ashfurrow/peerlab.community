@@ -35,3 +35,10 @@ peer_labs:
     meetup_url: https://www.meetup.com/Zurich-Peer-Lab/
     contact_twitter: akosma
     contact_email: learn@akosma.training
+
+ - city: Chennai, India
+    schedule: Every alternate Saturday, 10:30am
+    location: Expertone Technologies, Thoraipakkam, Chennai
+    meetup_url: https://www.meetup.com/IOS-peer-Lab-Chennai/
+    contact_twitter: rshankra
+    contact_email: ravi@rshankar.com
