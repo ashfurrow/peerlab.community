@@ -15,3 +15,10 @@ peer_labs:
   - city: London
     schedule: A Monday every month, 7:00pm
     meetup_url: https://www.meetup.com/swiftlondon/
+   
+  - city: Montréal, QC
+    schedule: A Saturday every month, 10:00am
+    location: Gab, 4815-A Boul. St-Laurent
+    meetup_url: https://meetup.com/CocoaHeads-Montreal/
+    contact_twitter: cocoaheadsmtl
+    contact_email: romain.pouclet@gmail.com
