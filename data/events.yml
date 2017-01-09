@@ -49,3 +49,9 @@ peer_labs:
     meetup_url: https://www.meetup.com/IOS-peer-Lab-Chennai/
     contact_twitter: rshankra
     contact_email: ravi@rshankar.com
+
+  - city: Chicago
+    schedule: 5:00pm - 8:00pm Tuesdays on which NSCoder Nights or CocoaHeads are NOT scheduled.
+    location: FastModel Sports. 410 N. Michigan Ave Suite 320
+    contact_twitter: _aijaz_
+    contact_email: aijaz@aijaz.net
