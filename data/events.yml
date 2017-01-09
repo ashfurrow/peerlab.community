@@ -22,3 +22,9 @@ peer_labs:
     meetup_url: https://meetup.com/CocoaHeads-Montreal/
     contact_twitter: cocoaheadsmtl
     contact_email: romain.pouclet@gmail.com
+
+  - city: Whitby, ON
+    schedule: Every Monday night, 7pm - 10pm
+  	location: Coffee Culture, 1525 Dundas St E., Whitby ON
+  	contact_twitter: aaronvegh
+  	contact_email: aaron@vegh.ca
