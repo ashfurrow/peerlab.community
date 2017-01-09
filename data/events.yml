@@ -28,3 +28,10 @@ peer_labs:
     location: Coffee Culture, 1525 Dundas St E., Whitby ON
     contact_twitter: aaronvegh
     contact_email: aaron@vegh.ca
+
+  - city: Zürich, Switzerland
+    schedule: The first Saturday of every month, 10:00am
+    location: Starbucks, Limmatquai 4, 8001 Zürich
+    meetup_url: https://www.meetup.com/Zurich-Peer-Lab/
+    contact_twitter: akosma
+    contact_email: learn@akosma.training
