@@ -73,3 +73,10 @@ peer_labs:
     meetup_url: https://www.meetup.com/iOS-peer-lab/
     contact_twitter: keitaito
     contact_email: keitaitok@gmail.com
+
+  - city: Austin
+    schedule: Most Tuesdays (check meetup page, working on making it regular)
+    location: Check meetup page - subject to change 
+    meetup_url: https://www.meetup.com/Weird-Cocoa-ATX/
+    contact_twitter: weirdcocoaatx
+    contact_email: david@okun.io
