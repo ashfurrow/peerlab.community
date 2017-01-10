@@ -55,3 +55,10 @@ peer_labs:
     location: FastModel Sports. 410 N. Michigan Ave Suite 320
     contact_twitter: _aijaz_
     contact_email: aijaz@aijaz.net
+
+  - city: San Francisco
+    schedule: Every Sunday, 10:00am
+    location: Workshop Cafe. The venue might be changed, please check out our meetup page. (Looking for a regular location to host.)
+    meetup_url: https://www.meetup.com/iOS-peer-lab/
+    contact_twitter: keitaito
+    contact_email: keitaitok@gmail.com
