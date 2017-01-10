@@ -9,6 +9,12 @@ peer_labs:
   - city: New York
     schedule: Third Wednesday of the month, 6:30 - 9pm
     meetup_url: https://www.meetup.com/nyc-ios-study-group/
+    
+  - city: New York (Python-focused)
+    schedule: Every Saturday, 2:00pm
+    location: Fueled Collective, 568 Broadway, Floor 11
+    contact_twitter: PaulLogston‬
+    meetup_url: https://www.meetup.com/learn-python-nyc/
 
   - city: Philadelphia
     schedule: Every Last Saturday of the Month, 10:00am - 5:00pm
