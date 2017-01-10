@@ -55,3 +55,9 @@ peer_labs:
     location: FastModel Sports. 410 N. Michigan Ave Suite 320
     contact_twitter: _aijaz_
     contact_email: aijaz@aijaz.net
+    
+  - city: Moscow, Russia
+    schedule: Every Saturday, 11:00am
+    location: Starbucks, 21 Kuznetsky Most
+    contact_twitter: ogrenich
+    contact_email: andrey.ogrenich@gmail.com
