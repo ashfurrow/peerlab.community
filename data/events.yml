@@ -86,3 +86,9 @@ peer_labs:
     meetup_url: https://www.meetup.com/Weird-Swift-ATX/
     contact_twitter: weirdswiftatx
     contact_email: david@okun.io
+  
+  - city: Hong Kong
+    schedule: Selected Saturday, 10:30-12:30am
+    location: V1121, Jockey Club Innovation Tower 賽馬會創新樓 ,The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+    contact_twitter: oaleeapp
+    contact_email: specialvict@gmail.com
