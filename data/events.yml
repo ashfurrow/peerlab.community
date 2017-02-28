@@ -98,3 +98,10 @@ peer_labs:
     location: Starbucks, park Aleksandrovskiy, 4/3, Sankt-Peterburg, 197101
     contact_twitter: PeterTheFirst31
     contact_email: petrik199631@gmail.com
+    
+  - city: Kyiv, Ukraine
+    schedule: Every Sunday, 11:00am
+    location: Korica cafe, Velyka Vasylkivska, 48
+    meetup_url: https://www.meetup.com/Software-Development-Study-Group-in-KYIV/
+    contact_twitter: astronauttux
+    contact_email: vadim.yakovliev@gmail.com
