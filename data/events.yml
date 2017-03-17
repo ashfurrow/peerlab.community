@@ -46,13 +46,6 @@ peer_labs:
     contact_twitter: aaronvegh
     contact_email: aaron@vegh.ca
 
-  - city: Zürich, Switzerland
-    schedule: The first Saturday of every month, 10:00am
-    location: Starbucks, Limmatquai 4, 8001 Zürich
-    meetup_url: https://www.meetup.com/Zurich-Peer-Lab/
-    contact_twitter: akosma
-    contact_email: learn@akosma.training
-
   - city: Chennai, India
     schedule: Every alternate Saturday, 10:30am
     location: Expertone Technologies, Thoraipakkam, Chennai
