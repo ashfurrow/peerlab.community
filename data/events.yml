@@ -13,7 +13,7 @@ peer_labs:
   - city: New York (Python-focused)
     schedule: Every Saturday, 2:00pm
     location: Fueled Collective, 568 Broadway, Floor 11
-    contact_twitter: PaulLogston‬
+    contact_twitter: PaulLogston
     meetup_url: https://www.meetup.com/learn-python-nyc/
 
   - city: Philadelphia
