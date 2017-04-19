@@ -42,9 +42,13 @@ title: Find a Peer Lab
                 <% if event.contact_email && event.contact_twitter %>
                   <% contact += ' or ' %>
                 <% end %>
-                <% if event.contact_twitter %> 
-                  <% contact += "tweet at <a href='https://twitter.com/#{event.contact_twitter}'>@#{event.contact_twitter}</a>"%>
+                <% if event.contact_twitter && event.contact_twitter.is_a?(String) %>
+                    <% event.contact_twitter = [event.contact_twitter] %>
                 <% end %>
+                <% if event.contact_twitter %>
+                    <% links = event.contact_twitter.map {|t| "<a href='https://twitter.com/#{t}'>@#{t}</a>" } %>
+                    <% contact +=  "tweet to " + links.join(", ") %>
+               <% end %>
                 <%= contact %>.
               <% end %>
             </p>
