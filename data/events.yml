@@ -91,6 +91,13 @@ peer_labs:
     location: Starbucks, park Aleksandrovskiy, 4/3, Sankt-Peterburg, 197101
     contact_twitter: PeterTheFirst31
     contact_email: petrik199631@gmail.com
+
+  - city: Rostov-on-Don, Russia
+    schedule: Selected Weekdays, 19:00pm
+    location: Setter's, ul. Suvorova, 52А, Rostov, Rostovskaya oblast', 344006
+    contact_twitter: spectraldragon_
+    contact_email: spectraldragon@yandex.com
+    telegram_channel: peerlab_rnd, Peer Lab Rostov
     
   - city: Kyiv, Ukraine
     schedule: Every Sunday, 11:00am
