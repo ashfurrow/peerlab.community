@@ -23,6 +23,13 @@ peer_labs:
     contact_twitter: stolton
     contact_email: leadership@phillycocoa.org
 
+  - city: Philadelphia
+    schedule: Monthly
+    location: Elsevier Inc., 1600 John F Kennedy Blvd, 18th Floor
+    meetup_url: https://www.meetup.com/DigitalOceanPhiladelphia/
+    contact_twitter: digitalocean
+    contact_email: domeetups@digitalocean.com
+
   - city: Amsterdam
     schedule: Every Saturday, 9:00am
     location: The Coffee Room, Kinkerstraat 110
