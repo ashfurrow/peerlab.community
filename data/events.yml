@@ -138,3 +138,10 @@ peer_labs:
     location: WOYTON am Tausendfüssler, Berliner Allee 4, 40212 Düsseldorf
     contact_twitter: swiftpainless
     contact_email: peerlab@swiftandpainless.com
+
+  - city: Barcelona, Spain
+    schedule: Every Saturday, 10:30am-12:30pm
+    location: Sopa Barcelona, Carrer de Roc Boronat, 114 08018, Barcelona
+    meetup_url: https://www.meetup.com/ThoughtWorks-Barcelona/
+    contact_twitter: SwiftPeerLab
+    contact_email: martinho@thoughtworks.com
