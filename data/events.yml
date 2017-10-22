@@ -145,3 +145,9 @@ peer_labs:
     meetup_url: https://www.meetup.com/ThoughtWorks-Barcelona/
     contact_twitter: SwiftPeerLab
     contact_email: martinho@thoughtworks.com
+
+  - city: Detroit, Michigan
+    schedule: Approximately monthly
+    location: Detroit Labs, 1520 Woodward Ave, Suite 600, Detroit, MI, 48226
+    meetup_url: https://www.meetup.com/Detroit-Android-Peer-Lab/
+    contact_email: detroitandroid@detroitlabs.com
