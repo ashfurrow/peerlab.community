@@ -37,4 +37,5 @@ task :server do
   Process.wait(middleman)
 end
 
+task :serve => :server
 task :default => :server
