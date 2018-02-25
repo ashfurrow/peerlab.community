@@ -1,18 +1,15 @@
 language: ruby
 rvm: 2.1.2
-
 cache:
-  - bundler
-
+- bundler
 before_install:
-  # Only necessary for deploys.
-  - echo -e "machine github.com\n  login ci-user\n  password $GITHUB_API_KEY" >> ~/.netrc
-  - chmod 600 ~/.netrc
-  - git config --global user.email "ash@ashfurrow.com"
-  - git config --global user.name "Ash Furrow (via Travis)"
-
+- echo -e "machine github.com\n  login ci-user\n  password $GITHUB_API_KEY" >> ~/.netrc
+- chmod 600 ~/.netrc
+- git config --global user.email "ash@ashfurrow.com"
+- git config --global user.name "Ash Furrow (via Travis)"
 script:
-  - bundle exec rake test
-
+- bundle exec rake test
 after_success:
-  - bundle exec rake travis ALLOW_DIRTY=true
+- bundle exec rake travis ALLOW_DIRTY=true
+env:
+  secure: Hk6FSKeyiLjyq1cxL90EKk7Q7HbrJk3R/pvpxLGJpQZH0uPZliEHAefu1s11PvyslejQ9Zfhk5k7sN/PBfpc7XAd5LluwuUxDYkXAnsCUDuDEvRV6hinlGExnUuX3jQtJSjn5Fat8zkrjPq1kj/750kObPn3jMp5FxbJPVrIf7LOXpypoXytrsXl9K7btZlxwdJDkGKN9vZrUESURIhT49vVd1x5ieWvLitJgx/MKv+A35QOomeIwR1EX0dHTHhY9U27PBUOf6tG/GdLX7ytYhNJeOw655xMJzEiVT1PFSQFD0SlJ8gourBsc0vk8ytu+F8qfijVgAVLFLAqrgENRsnVIETR9Adsx72kfUperVe1TKSakcYvdwN8ZJEtjltmezWH2jLJsmn9k5Xt3Hgz3N0jUt8acYLAqB4/QZYeF+gE9/akTMKW7j9HJeikJG6VdGi8NuAMDRw79wYW1se7UfQBmWd7A+06XN/GWp7COhuLSjEwUXzxJhW0jKaX6CVp424fZMHy+MnZjs0brin52A2QZaBAL6kYNrSRmAQRaF71ojs4NxfJlOMRHnitJ103vMDMDZIiSk6tF14A6EAu87gAfzUGv3ngYEksPahysiXvj+KeEaxR0sJDyeMntWRY30cFMXtvDxUgnHeVSTrV60a+fy5Mhh4w5WN9/r6tzR8=

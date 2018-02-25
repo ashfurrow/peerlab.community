@@ -19,6 +19,19 @@ task :travis do
   end
 
   Rake::Task['publish'].invoke
+
+  puts 'Invalidating CDN.'
+  sleep 20 # Give GitHub time to deploy the site before invalidating.
+  CLOUDFLARE_ZONE_ID = '78aee06030dd52496fcc5b508ca32336'
+  # Documented at https://api.cloudflare.com/#zone-purge-all-files
+  sh <<-EOS
+    curl -X DELETE "https://api.cloudflare.com/client/v4/zones/#{CLOUDFLARE_ZONE_ID}/purge_cache" \
+    -H "X-Auth-Email: $CLOUDFLARE_EMAIL" \
+    -H "X-Auth-Key: $CLOUDFLARE_CLIENT_API_KEY" \
+    -H "Content-Type: application/json" \
+    --data '{"purge_everything":true}'
+  EOS
+  puts 'Invalidation complete.'
 end
 
 desc "Builds the site in the ./test directory."
