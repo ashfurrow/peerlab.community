@@ -161,3 +161,10 @@ peer_labs:
     location: Starbucks, Mega Silkway, Kabanbai Batyra street 62, Astana
     contact_twitter: askarsyzdykov
     contact_email: askar.syzdykov@gmail.com
+
+  - city: Kirov, Russia
+    schedule: Every Tuesday, 8:00pm
+    location: Book Club 12, Preobrazhenskaya Ulitsa, 15, Kirov, Kirovskaya oblast', 610020
+    contact_twitter: krest_mike, ivan_smtnn
+    contact_email: krest.mike@gmail.com, smetanin23@yandex.ru
+    telegram_channel: https://t.me/peerlabkirov
