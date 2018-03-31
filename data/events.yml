@@ -96,7 +96,7 @@ peer_labs:
     location: Starbucks, Nevskiy prospekt 114–116(Nevskiy Center), Saint Petersburg, 191025
     contact_twitter: PeterTheFirst31
     contact_email: petrik199631@gmail.com
-    telegram_channel: https://t.me/spbpeerlab
+    telegram_channel: spbpeerlab, Peer Lab SPB
 
   - city: Rostov-on-Don, Russia
     schedule: Selected Weekdays, 19:00pm
@@ -165,6 +165,6 @@ peer_labs:
   - city: Kirov, Russia
     schedule: Every Tuesday, 8:00pm
     location: Book Club 12, Preobrazhenskaya Ulitsa, 15, Kirov, Kirovskaya oblast', 610020
-    contact_twitter: krest_mike, ivan_smtnn
+    contact_twitter: [krest_mike, ivan_smtnn]
     contact_email: krest.mike@gmail.com, smetanin23@yandex.ru
-    telegram_channel: https://t.me/peerlabkirov
+    telegram_channel: peerlabkirov, Peer Lab Kirov
