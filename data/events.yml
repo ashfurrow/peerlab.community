@@ -168,3 +168,10 @@ peer_labs:
     contact_twitter: [krest_mike, ivan_smtnn]
     contact_email: krest.mike@gmail.com, smetanin23@yandex.ru
     telegram_channel: peerlabkirov, Peer Lab Kirov
+
+  - city: Manchester, UK 
+    schedule: First Saturday of the Month, 11:00am
+    location: Equal Experts, Suite 1 3rd Floor, Federation House, Federation Street, Manchester, M4 2AH
+    meetup_url: https://www.meetup.com/Manchester-Peer-Lab
+    contact_twitter: beezly
+    contact_email: andrew@aviancarrier.co.uk
