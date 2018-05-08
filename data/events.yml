@@ -81,6 +81,7 @@ peer_labs:
   - city: San Diego
     schedule: Every Thursday, 4-6pm
     location: Copa Vida, 11055 Roselle St, San Diego, CA 92121
+    meetup_url: https://github.com/derekvallar/peerlab.community-SanDiego
     contact_email: derekvallar@gmail.com
 
   - city: Austin
