@@ -118,6 +118,13 @@ peer_labs:
     contact_email: vadim.yakovliev@gmail.com
     telegram_channel: peerlab_ios, Peer Lab Kyiv
     
+  - city: Kyiv, Ukraine
+    schedule: Every Sunday, 11:00am
+    location: Druzi cafe ,Velyka Vasylkivska St, 49, Kyiv, 02000
+    contact_twitter: lyashenkogs
+    contact_email: lyashenkogs@gmail.com
+    telegram_channel: peerlab_java 
+    
   - city: Copenhagen, Denmark
     schedule: Selected Weekdays, 17:00-10:00pm
     location: Jayway, Sjæleboderne 2, 4.tv., 1122 København K
