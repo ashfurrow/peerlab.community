@@ -70,6 +70,13 @@ peer_labs:
     location: Starbucks, 21 Kuznetsky Most
     contact_twitter: ogrenich
     contact_email: andrey.ogrenich@gmail.com
+    
+  - city: Moscow, Russia
+    schedule: Monthly, Selected workday, 7pm
+    location: Different IT companies. Please check out our meetup page.
+    meetup_url: https://www.facebook.com/groups/psypeerlabforit/
+    contact_email: akpsyh@gmail.com
+    telegram_channel: psypeerlabforit
 
   - city: San Francisco
     schedule: Every Sunday, 10:00am
