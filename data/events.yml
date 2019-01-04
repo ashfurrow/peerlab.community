@@ -230,3 +230,10 @@ peer_labs:
     meetup_url: https://www.meetup.com/Android-Peer-Lab
     contact_twitter: gsilvapt
     contact_email: gustavosantaremsilva@gmail.com
+    
+  - city: Moscow, Russia
+    schedule: Monthly
+    location: Different IT companies
+    meetup_url: https://www.facebook.com/devleadsmeetup/
+    contact_email: peerlab@devleads.ru
+    telegram_channel: devleadschat, devleads chat
