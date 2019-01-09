@@ -138,13 +138,13 @@ peer_labs:
     contact_email: lyashenkogs@gmail.com
     telegram_channel: peerlab_java 
 
-  - city: Kharkiv (iOS), Ukraine
-    schedule: Every Saturday, 10:00am
-    location: Fabrika.space, Blagoveshchenska, 1, Kharkiv, 61000
+  - city: Kharkiv, Ukraine (iOS)
+    schedule: Every Saturday, 11:00am
+    location: Shishka Coworking, Nauki Ave, 30 (10th Floor), Kharkiv, 61000
     contact_twitter: iPeerlab
     contact_email: ivan.kramaren@gmail.com
     meetup_url: https://www.meetup.com/Kharkiv-iOS-Peerlab/
-    telegram_channel: peerlab_ios_kharkiv 
+    telegram_channel: peerlab_ios_kharkiv, iOS peerlab Kharkiv
     
   - city: Copenhagen, Denmark
     schedule: Selected Weekdays, 17:00-10:00pm
