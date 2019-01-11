@@ -122,14 +122,14 @@ peer_labs:
     schedule: Selected Sundays, 11:00am
     location: Druzi cafe, Velyka Vasilkivska 49-A, Kyiv
     contact_email: 0x00.gear@gmail.com
-    telegram_channel: peerlab_NativeDev
+    telegram_channel: peerlab_NativeDev, Peer Lab NativeDev Kyiv
 
   - city: Kyiv, Ukraine
     schedule: Every Sunday, 11:00am
     location: Druzi cafe ,Velyka Vasylkivska St, 49, Kyiv, 02000
     contact_twitter: lyashenkogs
     contact_email: lyashenkogs@gmail.com
-    telegram_channel: peerlab_java 
+    telegram_channel: peerlab_java, Peer Lab Java Kyiv
     
   - city: Copenhagen, Denmark
     schedule: Selected Weekdays, 17:00-10:00pm
