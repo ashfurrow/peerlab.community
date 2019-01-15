@@ -237,3 +237,10 @@ peer_labs:
     meetup_url: https://www.facebook.com/devleadsmeetup/
     contact_email: peerlab@devleads.ru
     telegram_channel: devleadschat, devleads chat
+
+  - city: Barcelona, Catalonia, Spain (Linux kernel)
+    schedule: Friday afternoon once a month, more or less.
+    location: Lleialtat Santsenca, Carrer d’Olzinelles, 31
+    meetup_url: https://mtk.bcnfs.org/doku.php?id=barcelona-kernel-peer-lab
+    contact_twitter: bruggems
+    contact_email: matthias.bgg@kernel.org
