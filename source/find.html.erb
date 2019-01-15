@@ -41,6 +41,8 @@ title: Find a Peer Lab
                 <% end %>
                 <% if event.contact_email && event.contact_twitter %>
                   <% contact += ' or ' %>
+		<% else %>
+                  <% contact += '. ' %>
                 <% end %>
                 <% if event.contact_twitter && event.contact_twitter.is_a?(String) %>
                     <% event.contact_twitter = [event.contact_twitter] %>
