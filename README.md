@@ -12,6 +12,8 @@ Adding your peer lab is a straightforward process: you need to add it to the [`e
 | `meetup_url` | A URL to link to (doesn't need to be a Meetup.com URL). |
 | `contact_twitter` | If someone has questions, who should they tweet? |
 | `contact_email` | If someone has questions, who should they email? |
+| `telegram_channel` | If someone has questions, where can he reach the community? |
+| `irc_channel` | If someone has questions, where can he reach the community? |
 
 ## Contributing
 
