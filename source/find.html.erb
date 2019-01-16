@@ -51,12 +51,12 @@ title: Find a Peer Lab
                     <% links = event.contact_twitter.map {|t| "<a href='https://twitter.com/#{t}'>@#{t}</a>" } %>
                     <% contact +=  "tweet to " + links.join(", ") + ". " %>
                <% end %>
-                  <% if event.telegram_channel %>
-                      <% t = event.telegram_channel.split(", ") %>
-                      <% links = "<a href='https://t.me/#{t[0]}'>#{t[1]}</a>" %>
-                      <% contact += "Our telegram channel: " + links + "." %>
-                  <% end %>
-                <%= contact %>
+               <% if event.telegram_channel %>
+                   <% t = event.telegram_channel.split(", ") %>
+                   <% links = "<a href='https://t.me/#{t[0]}'>#{t[1]}</a>" %>
+                   <% contact += "Our telegram channel: " + links + "." %>
+               <% end %>
+               <%= contact %>
               <% end %>
             </p>
           <% end %>
