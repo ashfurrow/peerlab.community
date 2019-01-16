@@ -244,3 +244,4 @@ peer_labs:
     meetup_url: https://mtk.bcnfs.org/doku.php?id=barcelona-kernel-peer-lab
     contact_twitter: bruggems
     contact_email: matthias.bgg@kernel.org
+    irc_channel: irc.freenode.net, bcn-kernel-peer-lab
