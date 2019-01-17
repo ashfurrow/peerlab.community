@@ -70,6 +70,13 @@ peer_labs:
     location: Starbucks, 21 Kuznetsky Most
     contact_twitter: ogrenich
     contact_email: andrey.ogrenich@gmail.com
+    
+  - city: Moscow, Russia
+    schedule: Monthly, Selected workday, 7pm
+    location: Different IT companies. Please check out our meetup page.
+    meetup_url: https://www.facebook.com/groups/psypeerlabforit/
+    contact_email: akpsyh@gmail.com
+    telegram_channel: psypeerlabforit
 
   - city: San Francisco
     schedule: Every Sunday, 10:00am
@@ -130,6 +137,14 @@ peer_labs:
     contact_twitter: lyashenkogs
     contact_email: lyashenkogs@gmail.com
     telegram_channel: peerlab_java, Peer Lab Java Kyiv
+
+  - city: Kharkiv, Ukraine (iOS)
+    schedule: Every Saturday, 11:00am
+    location: Shishka Coworking, Nauki Ave, 30 (10th Floor), Kharkiv, 61000
+    contact_twitter: iPeerlab
+    contact_email: ivan.kramaren@gmail.com
+    meetup_url: https://www.meetup.com/Kharkiv-iOS-Peerlab/
+    telegram_channel: peerlab_ios_kharkiv, iOS peerlab Kharkiv
     
   - city: Copenhagen, Denmark
     schedule: Selected Weekdays, 17:00-10:00pm
@@ -175,7 +190,13 @@ peer_labs:
     location: Detroit Labs, 1520 Woodward Ave, Suite 600, Detroit, MI, 48226
     meetup_url: https://www.meetup.com/Detroit-Android-Peer-Lab/
     contact_email: detroitandroid@detroitlabs.com
-    
+
+  - city: Detroit, Michigan
+    schedule: Approximately monthly
+    location: Detroit Labs, 1520 Woodward Ave, Suite 600, Detroit, MI, 48226
+    meetup_url: https://www.meetup.com/Swift-Peer-Lab/
+    contact_email: detroitiOS@detroitlabs.com
+
   - city: Astana, Kazakhstan
     schedule: Every Sunday, 12:00am
     location: Starbucks, Mega Silkway, Kabanbai Batyra street 62, Astana
@@ -209,3 +230,18 @@ peer_labs:
     meetup_url: https://www.meetup.com/Android-Peer-Lab
     contact_twitter: gsilvapt
     contact_email: gustavosantaremsilva@gmail.com
+    
+  - city: Moscow, Russia (Devleads)
+    schedule: Monthly
+    location: Different IT companies
+    meetup_url: https://www.facebook.com/devleadsmeetup/
+    contact_email: peerlab@devleads.ru
+    telegram_channel: devleadschat, devleads chat
+
+  - city: Barcelona, Catalonia, Spain (Linux kernel)
+    schedule: Friday afternoon once a month, more or less.
+    location: Lleialtat Santsenca, Carrer d’Olzinelles, 31
+    meetup_url: https://mtk.bcnfs.org/doku.php?id=barcelona-kernel-peer-lab
+    contact_twitter: bruggems
+    contact_email: matthias.bgg@kernel.org
+    irc_channel: irc.freenode.net, bcn-kernel-peer-lab
