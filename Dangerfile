@@ -13,7 +13,7 @@ warn("Big PR") if git.lines_of_code > 500
 Rake::Task.clear
 Rake.load_rakefile 'Rakefile'
 begin
-  Rake::Task["check_yaml"].invoke
+  Rake::Task["yaml:check"].invoke
 rescue
-  fail '`data/events.yml` is not softed by city name.'
+  fail '`data/events.yml` is not softed by city name. Run `rake yaml:sort` to sort it, commit your changes, and push.'
 end
