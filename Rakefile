@@ -50,5 +50,14 @@ task :server do
   Process.wait(middleman)
 end
 
+desc "Check data/events.yml for lexicographical sort by city name"
+task :check_yaml do
+  contents = File.read("data/events.yml")
+  cities = contents.scan(/- city: ([^\n]+)$/).flatten
+  unless cities.sort == cities
+    fail "data/events.yml is not sorted"
+  end
+end
+
 task :serve => :server
 task :default => :server
