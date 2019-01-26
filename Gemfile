@@ -17,3 +17,9 @@ gem 'rake'
 
 # Necessary for checking PRs on CI.
 gem 'danger'
+
+# For easier development
+group :development do
+  gem 'rb-readline'
+  gem 'pry'
+end
