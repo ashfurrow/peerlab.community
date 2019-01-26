@@ -9,6 +9,7 @@ before_install:
   - git config --global user.name "Ash Furrow (via Travis)"
 script:
   - bundle exec rake test
+  - bundle exec danger
 after_success:
   - bundle exec rake travis ALLOW_DIRTY=true
 env:

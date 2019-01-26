@@ -50,5 +50,31 @@ task :server do
   Process.wait(middleman)
 end
 
+namespace :yaml do
+  desc "Check data/events.yml for lexicographical sort by city name"
+  task :check do
+    contents = File.read("data/events.yml")
+    cities = contents.scan(/- city: ([^\n]+)$/).flatten
+    unless cities.sort == cities
+      fail "data/events.yml is not sorted"
+    end
+  end
+
+  desc "Sorts data/events.yml lexicographically by city name"
+  task :sort do
+    # We're going to assume each entry starts with `- city`, as shown in the README
+    contents = File.read("data/events.yml")
+    entries = contents.split("- city: ")[1...-1]
+    new_entries = entries
+      .map { |e| { name: e.split("\n").first, entry: e }  }
+      .sort { |l, r| l[:name] <=> r[:name] }
+    new_contents = <<~EOS
+      peer_labs:
+        #{ new_entries.map { |e| "- city: #{ e[:entry] }" }.join("") }
+    EOS
+    File.write('data/events.yml', new_contents)
+  end
+end
+
 task :serve => :server
 task :default => :server

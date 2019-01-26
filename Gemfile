@@ -14,3 +14,12 @@ gem 'middleman-compass', '>= 4.0.0'
 
 gem 'middleman-gh-pages'
 gem 'rake'
+
+# Necessary for checking PRs on CI.
+gem 'danger'
+
+# For easier development
+group :development do
+  gem 'rb-readline'
+  gem 'pry'
+end
