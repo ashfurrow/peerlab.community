@@ -2,7 +2,7 @@
 
 ## Adding Your Peer Lab
 
-Adding your peer lab is a straightforward process: you need to add it to the [`events.yml`](https://github.com/ashfurrow/peerlab.community/blob/master/data/events.yml) file in this repository. The only field that's strictly required is the `city`, but the more info you can add the better. Use the existing entries as examples.
+Adding your peer lab is a straightforward process: you need to add it to the [`events.yml`](https://github.com/ashfurrow/peerlab.community/blob/master/data/events.yml) file in this repository. **Make sure the events are sorted** by city name. The only field that's strictly required is the `city`, but the more info you can add the better. Use the existing entries as examples.
 
 | Field | Description |
 |-------|-------------|
