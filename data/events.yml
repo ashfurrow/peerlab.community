@@ -1,4 +1,165 @@
 peer_labs:
+  - city: Almaty, Kazakhstan
+    schedule: Every Saturday, 5:00pm
+    location: Starbucks, Mega Center Alma-Ata, Rozybakiev street 263, Almaty
+    contact_twitter: AlibekAshirali
+    contact_email: ashiralialibek@gmail.com
+
+  - city: Amsterdam
+    schedule: Every Saturday, 9:00am
+    location: The Coffee Room, Kinkerstraat 110
+    meetup_url: https://www.meetup.com/Appsterdam/
+    contact_twitter: samuelgoodwin
+
+  - city: Astana, Kazakhstan
+    schedule: Every Sunday, 12:00am
+    location: Starbucks, Mega Silkway, Kabanbai Batyra street 62, Astana
+    contact_twitter: askarsyzdykov
+    contact_email: askar.syzdykov@gmail.com
+
+  - city: Austin
+    schedule: Every Thursday, 6-11pm (see Meetup Page)
+    location: Dominican Joe, 515 S Congress Ave, Suite 108, Austin, TX
+    meetup_url: https://www.meetup.com/Weird-Swift-ATX/
+    contact_twitter: weirdswiftatx
+    contact_email: david@okun.io
+  
+  - city: Barcelona, Spain
+    schedule: Every Saturday, 10:30am-12:30pm
+    location: Sopa Barcelona, Carrer de Roc Boronat, 114 08018, Barcelona
+    meetup_url: https://www.meetup.com/ThoughtWorks-Barcelona/
+    contact_twitter: SwiftPeerLab
+    contact_email: martinho@thoughtworks.com
+
+  - city: Barcelona, Spain
+    schedule: Depending on the group's necessities
+    location: Still to decide
+    meetup_url: https://www.meetup.com/es-ES/barcelona-peer-labs/
+    contact_email: jhervasdiaz@gmail.com
+
+  - city: Berlin, Germany
+    schedule: Selected Sundays, 12:30-2:30pm
+    location: SoundCloud HQ (The Factory 2nd Floor), Rheinsberger Str 76, 10115 Berlin
+    contact_twitter: [meghafon, estorhe]
+    meetup_url: https://www.meetup.com/Peer-Lab-Berlin/
+    contact_email: kanemeghan@gmail.com, me@estebantorr.es
+
+  - city: Chennai, India
+    schedule: Every alternate Saturday, 10:30am
+    location: Expertone Technologies, Chandrasekaran Avenue, 1st Main Road, 2nd Avenue, Dharshan Villa 1st Floor, Thoraippakkam (PTC Bus Stop), Chennai
+    meetup_url: https://www.meetup.com/IOS-peer-Lab-Chennai/
+    contact_twitter: rshankra
+    contact_email: ravi@rshankar.com
+
+  - city: Chicago
+    schedule: 5:00pm - 8:00pm Tuesdays on which NSCoder Nights or CocoaHeads are NOT scheduled.
+    meetup_url: http://peerlabchicago.com/
+    contact_twitter: peerlabchicago
+
+  - city: Copenhagen, Denmark
+    schedule: Selected Weekdays, 17:00-10:00pm
+    location: Jayway, Sjæleboderne 2, 4.tv., 1122 København K
+    meetup_url: https://www.meetup.com/CopenhagenCocoa/
+    contact_twitter: ClausSimonsen
+    contact_email: claussimonsen@gmail.com
+
+  - city: Detroit, Michigan
+    schedule: Approximately monthly
+    location: Detroit Labs, 1520 Woodward Ave, Suite 600, Detroit, MI, 48226
+    meetup_url: https://www.meetup.com/Swift-Peer-Lab/
+    contact_email: detroitiOS@detroitlabs.com
+
+  - city: Detroit, Michigan
+    schedule: Approximately monthly
+    location: Detroit Labs, 1520 Woodward Ave, Suite 600, Detroit, MI, 48226
+    meetup_url: https://www.meetup.com/Detroit-Android-Peer-Lab/
+    contact_email: detroitandroid@detroitlabs.com
+
+  - city: Düsseldorf, Germany
+    schedule: PAUSED until 2018
+    location: WOYTON am Tausendfüssler, Berliner Allee 4, 40212 Düsseldorf
+    contact_twitter: swiftpainless
+    contact_email: peerlab@swiftandpainless.com
+
+  - city: Hong Kong
+    schedule: Selected Saturday, 10:30-12:30am
+    location: V1121, Jockey Club Innovation Tower 賽馬會創新樓 ,The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+    contact_twitter: oaleeapp
+    contact_email: specialvict@gmail.com
+    
+  - city: Kharkiv, Ukraine (iOS)
+    schedule: Every Saturday, 11:00am
+    location: Shishka Coworking, Nauki Ave, 30 (10th Floor), Kharkiv, 61000
+    contact_twitter: iPeerlab
+    contact_email: ivan.kramaren@gmail.com
+    meetup_url: https://www.meetup.com/Kharkiv-iOS-Peerlab/
+    telegram_channel: peerlab_ios_kharkiv, iOS peerlab Kharkiv
+    
+  - city: Kirov, Russia
+    schedule: Every Tuesday, 8:00pm
+    location: Book Club 12, Preobrazhenskaya Ulitsa, 15, Kirov, Kirovskaya oblast', 610020
+    contact_twitter: [krest_mike, ivan_smtnn]
+    contact_email: krest.mike@gmail.com, smetanin23@yandex.ru
+    telegram_channel: peerlabkirov, Peer Lab Kirov
+
+  - city: Kyiv(C/C++/Rust-focused), Ukraine
+    schedule: Selected Sundays, 11:00am
+    location: Druzi cafe, Velyka Vasilkivska 49-A, Kyiv
+    contact_email: 0x00.gear@gmail.com
+    telegram_channel: peerlab_NativeDev, Peer Lab NativeDev Kyiv
+
+  - city: Kyiv, Ukraine
+    schedule: Every Sunday, 11:00am
+    location: Mister Cat, Velyka Vasylkivska St, 19, Kyiv, 02000
+    contact_twitter: astronauttux
+    contact_email: vadim.yakovliev@gmail.com
+    telegram_channel: peerlab_ios, Peer Lab Kyiv
+    
+  - city: Kyiv, Ukraine
+    schedule: Every Sunday, 11:00am
+    location: Druzi cafe ,Velyka Vasylkivska St, 49, Kyiv, 02000
+    contact_twitter: lyashenkogs
+    contact_email: lyashenkogs@gmail.com
+    telegram_channel: peerlab_java, Peer Lab Java Kyiv
+
+  - city: London
+    schedule: A Monday every month, 7:00pm
+    meetup_url: https://www.meetup.com/swiftlondon/
+
+  - city: Manchester, UK 
+    schedule: First Saturday of the Month, 11:00am
+    location: Equal Experts, Suite 1 3rd Floor, Federation House, Federation Street, Manchester, M4 2AH
+    meetup_url: https://www.meetup.com/Manchester-Peer-Lab
+    contact_twitter: beezly
+    contact_email: andrew@aviancarrier.co.uk
+    
+  - city: Montréal, QC
+    schedule: A Saturday every month, 10:00am
+    location: Crew Collective & Café, 360 Rue Saint-Jacques, Montréal, QC
+    meetup_url: https://meetup.com/CocoaHeads-Montreal/
+    contact_twitter: cocoaheadsmtl
+    contact_email: romain.pouclet@gmail.com
+
+  - city: Moscow, Russia
+    schedule: Every Saturday, 11:00am
+    location: Starbucks, 21 Kuznetsky Most
+    contact_twitter: ogrenich
+    contact_email: andrey.ogrenich@gmail.com
+    
+  - city: Moscow, Russia
+    schedule: Monthly, Selected workday, 7pm
+    location: Different IT companies. Please check out our meetup page.
+    meetup_url: https://www.facebook.com/groups/psypeerlabforit/
+    contact_email: akpsyh@gmail.com
+    telegram_channel: psypeerlabforit
+
+  - city: Moscow, Russia (Devleads)
+    schedule: Monthly
+    location: Different IT companies
+    meetup_url: https://www.facebook.com/devleadsmeetup/
+    contact_email: peerlab@devleads.ru
+    telegram_channel: devleadschat, devleads chat
+
   - city: New York
     schedule: Every Saturday, 10:30am
     location: Artsy, 401 Broadway, Floor 25
@@ -17,206 +178,19 @@ peer_labs:
     meetup_url: https://www.meetup.com/learn-python-nyc/
 
   - city: Philadelphia
-    schedule: Every Last Saturday of the Month, 10:00am - 5:00pm
-    location: PromptWorks, 1211 Chestnut Street Suite 400
-    meetup_url: https://www.meetup.com/PhillyCocoaHeads/
-    contact_twitter: stolton
-    contact_email: leadership@phillycocoa.org
-
-  - city: Philadelphia
     schedule: Monthly
     location: Elsevier Inc., 1600 John F Kennedy Blvd, 18th Floor
     meetup_url: https://www.meetup.com/DigitalOceanPhiladelphia/
     contact_twitter: digitalocean
     contact_email: domeetups@digitalocean.com
 
-  - city: Amsterdam
-    schedule: Every Saturday, 9:00am
-    location: The Coffee Room, Kinkerstraat 110
-    meetup_url: https://www.meetup.com/Appsterdam/
-    contact_twitter: samuelgoodwin
+  - city: Philadelphia
+    schedule: Every Last Saturday of the Month, 10:00am - 5:00pm
+    location: PromptWorks, 1211 Chestnut Street Suite 400
+    meetup_url: https://www.meetup.com/PhillyCocoaHeads/
+    contact_twitter: stolton
+    contact_email: leadership@phillycocoa.org
 
-  - city: London
-    schedule: A Monday every month, 7:00pm
-    meetup_url: https://www.meetup.com/swiftlondon/
-
-  - city: Montréal, QC
-    schedule: A Saturday every month, 10:00am
-    location: Crew Collective & Café, 360 Rue Saint-Jacques, Montréal, QC
-    meetup_url: https://meetup.com/CocoaHeads-Montreal/
-    contact_twitter: cocoaheadsmtl
-    contact_email: romain.pouclet@gmail.com
-
-  - city: Whitby, ON
-    schedule: Every Monday night, 7pm - 10pm
-    location: Coffee Culture, 1525 Dundas St E., Whitby ON
-    contact_twitter: aaronvegh
-    contact_email: aaron@vegh.ca
-
-  - city: Chennai, India
-    schedule: Every alternate Saturday, 10:30am
-    location: Expertone Technologies, Chandrasekaran Avenue, 1st Main Road, 2nd Avenue, Dharshan Villa 1st Floor, Thoraippakkam (PTC Bus Stop), Chennai
-    meetup_url: https://www.meetup.com/IOS-peer-Lab-Chennai/
-    contact_twitter: rshankra
-    contact_email: ravi@rshankar.com
-
-  - city: Chicago
-    schedule: 5:00pm - 8:00pm Tuesdays on which NSCoder Nights or CocoaHeads are NOT scheduled.
-    meetup_url: http://peerlabchicago.com/
-    contact_twitter: peerlabchicago
-
-  - city: Moscow, Russia
-    schedule: Every Saturday, 11:00am
-    location: Starbucks, 21 Kuznetsky Most
-    contact_twitter: ogrenich
-    contact_email: andrey.ogrenich@gmail.com
-    
-  - city: Moscow, Russia
-    schedule: Monthly, Selected workday, 7pm
-    location: Different IT companies. Please check out our meetup page.
-    meetup_url: https://www.facebook.com/groups/psypeerlabforit/
-    contact_email: akpsyh@gmail.com
-    telegram_channel: psypeerlabforit
-
-  - city: San Francisco
-    schedule: Every Sunday, 10:00am
-    location: Workshop Cafe. The venue might be changed, please check out our meetup page. (Looking for a regular location to host.)
-    meetup_url: https://www.meetup.com/iOS-peer-lab/
-    contact_twitter: keitaito
-    contact_email: keitaitok@gmail.com
-
-  - city: San Diego
-    schedule: Every Thursday, 4-6pm
-    location: Copa Vida, 11055 Roselle St, San Diego, CA 92121
-    meetup_url: https://github.com/derekvallar/peerlab.community-SanDiego
-    contact_email: derekvallar@gmail.com
-
-  - city: Austin
-    schedule: Every Thursday, 6-11pm (see Meetup Page)
-    location: Dominican Joe, 515 S Congress Ave, Suite 108, Austin, TX
-    meetup_url: https://www.meetup.com/Weird-Swift-ATX/
-    contact_twitter: weirdswiftatx
-    contact_email: david@okun.io
-  
-  - city: Hong Kong
-    schedule: Selected Saturday, 10:30-12:30am
-    location: V1121, Jockey Club Innovation Tower 賽馬會創新樓 ,The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
-    contact_twitter: oaleeapp
-    contact_email: specialvict@gmail.com
-    
-  - city: Saint-Petersburg, Russia
-    schedule: Every Sunday, 11:00am
-    location: Starbucks, Nevskiy prospekt 114–116(Nevskiy Center), Saint Petersburg, 191025
-    contact_twitter: PeterTheFirst31
-    contact_email: petrik199631@gmail.com
-    telegram_channel: spbpeerlab, Peer Lab SPB
-
-  - city: Rostov-on-Don, Russia
-    schedule: Selected Weekdays, 19:00pm
-    location: Setter's, ul. Suvorova, 52А, Rostov, Rostovskaya oblast', 344006
-    contact_twitter: spectraldragon_
-    contact_email: spectraldragon@yandex.com
-    telegram_channel: peerlab_rnd, Peer Lab Rostov
-    
-  - city: Kyiv, Ukraine
-    schedule: Every Sunday, 11:00am
-    location: Mister Cat, Velyka Vasylkivska St, 19, Kyiv, 02000
-    contact_twitter: astronauttux
-    contact_email: vadim.yakovliev@gmail.com
-    telegram_channel: peerlab_ios, Peer Lab Kyiv
-    
-  - city: Kyiv(C/C++/Rust-focused), Ukraine
-    schedule: Selected Sundays, 11:00am
-    location: Druzi cafe, Velyka Vasilkivska 49-A, Kyiv
-    contact_email: 0x00.gear@gmail.com
-    telegram_channel: peerlab_NativeDev, Peer Lab NativeDev Kyiv
-
-  - city: Kyiv, Ukraine
-    schedule: Every Sunday, 11:00am
-    location: Druzi cafe ,Velyka Vasylkivska St, 49, Kyiv, 02000
-    contact_twitter: lyashenkogs
-    contact_email: lyashenkogs@gmail.com
-    telegram_channel: peerlab_java, Peer Lab Java Kyiv
-
-  - city: Kharkiv, Ukraine (iOS)
-    schedule: Every Saturday, 11:00am
-    location: Shishka Coworking, Nauki Ave, 30 (10th Floor), Kharkiv, 61000
-    contact_twitter: iPeerlab
-    contact_email: ivan.kramaren@gmail.com
-    meetup_url: https://www.meetup.com/Kharkiv-iOS-Peerlab/
-    telegram_channel: peerlab_ios_kharkiv, iOS peerlab Kharkiv
-    
-  - city: Copenhagen, Denmark
-    schedule: Selected Weekdays, 17:00-10:00pm
-    location: Jayway, Sjæleboderne 2, 4.tv., 1122 København K
-    meetup_url: https://www.meetup.com/CopenhagenCocoa/
-    contact_twitter: ClausSimonsen
-    contact_email: claussimonsen@gmail.com
-
-  - city: Berlin, Germany
-    schedule: Selected Sundays, 12:30-2:30pm
-    location: SoundCloud HQ (The Factory 2nd Floor), Rheinsberger Str 76, 10115 Berlin
-    contact_twitter: [meghafon, estorhe]
-    meetup_url: https://www.meetup.com/Peer-Lab-Berlin/
-    contact_email: kanemeghan@gmail.com, me@estebantorr.es
-
-  - city: Almaty, Kazakhstan
-    schedule: Every Saturday, 5:00pm
-    location: Starbucks, Mega Center Alma-Ata, Rozybakiev street 263, Almaty
-    contact_twitter: AlibekAshirali
-    contact_email: ashiralialibek@gmail.com
-
-  - city: Düsseldorf, Germany
-    schedule: PAUSED until 2018
-    location: WOYTON am Tausendfüssler, Berliner Allee 4, 40212 Düsseldorf
-    contact_twitter: swiftpainless
-    contact_email: peerlab@swiftandpainless.com
-
-  - city: Barcelona, Spain
-    schedule: Every Saturday, 10:30am-12:30pm
-    location: Sopa Barcelona, Carrer de Roc Boronat, 114 08018, Barcelona
-    meetup_url: https://www.meetup.com/ThoughtWorks-Barcelona/
-    contact_twitter: SwiftPeerLab
-    contact_email: martinho@thoughtworks.com
-
-  - city: Barcelona, Spain
-    schedule: Depending on the group's necessities
-    location: Still to decide
-    meetup_url: https://www.meetup.com/es-ES/barcelona-peer-labs/
-    contact_email: jhervasdiaz@gmail.com
-
-  - city: Detroit, Michigan
-    schedule: Approximately monthly
-    location: Detroit Labs, 1520 Woodward Ave, Suite 600, Detroit, MI, 48226
-    meetup_url: https://www.meetup.com/Detroit-Android-Peer-Lab/
-    contact_email: detroitandroid@detroitlabs.com
-
-  - city: Detroit, Michigan
-    schedule: Approximately monthly
-    location: Detroit Labs, 1520 Woodward Ave, Suite 600, Detroit, MI, 48226
-    meetup_url: https://www.meetup.com/Swift-Peer-Lab/
-    contact_email: detroitiOS@detroitlabs.com
-
-  - city: Astana, Kazakhstan
-    schedule: Every Sunday, 12:00am
-    location: Starbucks, Mega Silkway, Kabanbai Batyra street 62, Astana
-    contact_twitter: askarsyzdykov
-    contact_email: askar.syzdykov@gmail.com
-
-  - city: Kirov, Russia
-    schedule: Every Tuesday, 8:00pm
-    location: Book Club 12, Preobrazhenskaya Ulitsa, 15, Kirov, Kirovskaya oblast', 610020
-    contact_twitter: [krest_mike, ivan_smtnn]
-    contact_email: krest.mike@gmail.com, smetanin23@yandex.ru
-    telegram_channel: peerlabkirov, Peer Lab Kirov
-
-  - city: Manchester, UK 
-    schedule: First Saturday of the Month, 11:00am
-    location: Equal Experts, Suite 1 3rd Floor, Federation House, Federation Street, Manchester, M4 2AH
-    meetup_url: https://www.meetup.com/Manchester-Peer-Lab
-    contact_twitter: beezly
-    contact_email: andrew@aviancarrier.co.uk
-    
   - city: Porto, Portugal 
     schedule: Every alternate Saturday of the Month, 10:30am
     location: The Feeting Room | Porto, Largo dos Lóios, nr 89 Porto
@@ -231,17 +205,37 @@ peer_labs:
     contact_twitter: gsilvapt
     contact_email: gustavosantaremsilva@gmail.com
     
-  - city: Moscow, Russia (Devleads)
-    schedule: Monthly
-    location: Different IT companies
-    meetup_url: https://www.facebook.com/devleadsmeetup/
-    contact_email: peerlab@devleads.ru
-    telegram_channel: devleadschat, devleads chat
+  - city: Rostov-on-Don, Russia
+    schedule: Selected Weekdays, 19:00pm
+    location: Setter's, ul. Suvorova, 52А, Rostov, Rostovskaya oblast', 344006
+    contact_twitter: spectraldragon_
+    contact_email: spectraldragon@yandex.com
+    telegram_channel: peerlab_rnd, Peer Lab Rostov
+    
+  - city: Saint-Petersburg, Russia
+    schedule: Every Sunday, 11:00am
+    location: Starbucks, Nevskiy prospekt 114–116(Nevskiy Center), Saint Petersburg, 191025
+    contact_twitter: PeterTheFirst31
+    contact_email: petrik199631@gmail.com
+    telegram_channel: spbpeerlab, Peer Lab SPB
 
-  - city: Barcelona, Catalonia, Spain (Linux kernel)
-    schedule: Friday afternoon once a month, more or less.
-    location: Lleialtat Santsenca, Carrer d’Olzinelles, 31
-    meetup_url: https://mtk.bcnfs.org/doku.php?id=barcelona-kernel-peer-lab
-    contact_twitter: bruggems
-    contact_email: matthias.bgg@kernel.org
-    irc_channel: irc.freenode.net, bcn-kernel-peer-lab
+  - city: San Diego
+    schedule: Every Thursday, 4-6pm
+    location: Copa Vida, 11055 Roselle St, San Diego, CA 92121
+    meetup_url: https://github.com/derekvallar/peerlab.community-SanDiego
+    contact_email: derekvallar@gmail.com
+
+  - city: San Francisco
+    schedule: Every Sunday, 10:00am
+    location: Workshop Cafe. The venue might be changed, please check out our meetup page. (Looking for a regular location to host.)
+    meetup_url: https://www.meetup.com/iOS-peer-lab/
+    contact_twitter: keitaito
+    contact_email: keitaitok@gmail.com
+
+  - city: Whitby, ON
+    schedule: Every Monday night, 7pm - 10pm
+    location: Coffee Culture, 1525 Dundas St E., Whitby ON
+    contact_twitter: aaronvegh
+    contact_email: aaron@vegh.ca
+
+  
