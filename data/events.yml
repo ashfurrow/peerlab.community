@@ -232,6 +232,13 @@ peer_labs:
     contact_twitter: keitaito
     contact_email: keitaitok@gmail.com
 
+  - city: Sydney, Australia
+    schedule: Every Saturday, 10:30am
+    location: Orto Trading Co, Surry Hills, Sydney
+    meetup_url: https://www.meetup.com/Swift-Peer-Lab-Sydney/
+    contact_twitter: jimmynhoran
+    contact_email: jimmy.horan@outlook.com
+
   - city: Whitby, ON
     schedule: Every Monday night, 7pm - 10pm
     location: Coffee Culture, 1525 Dundas St E., Whitby ON
