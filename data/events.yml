@@ -102,9 +102,9 @@ peer_labs:
     contact_email: krest.mike@gmail.com, smetanin23@yandex.ru
     telegram_channel: peerlabkirov, Peer Lab Kirov
 
-  - city: Kyiv(C/C++/Rust-focused), Ukraine
+  - city: Kyiv(C/C++/Rust/Go-focused), Ukraine
     schedule: Selected Sundays, 11:00am
-    location: Druzi cafe, Velyka Vasilkivska 49-A, Kyiv
+    location: different cafes or coworkings, see announcements in telegram
     contact_email: 0x00.gear@gmail.com
     telegram_channel: peerlab_NativeDev, Peer Lab NativeDev Kyiv
 
