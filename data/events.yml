@@ -146,12 +146,12 @@ peer_labs:
     contact_twitter: ogrenich
     contact_email: andrey.ogrenich@gmail.com
     
-  - city: Moscow, Russia
-    schedule: Monthly, Selected workday, 7pm
-    location: Different IT companies. Please check out our meetup page.
+  - city: Moscow, Russia (Psychological)
+    schedule: Monthly
+    location: Different IT companies
     meetup_url: https://www.facebook.com/groups/psypeerlabforit/
     contact_email: akpsyh@gmail.com
-    telegram_channel: psypeerlabforit
+    telegram_channel: psypeerlabforit, Psychological Peer Lab for IT
 
   - city: Moscow, Russia (Devleads)
     schedule: Monthly
