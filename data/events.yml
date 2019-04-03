@@ -110,11 +110,11 @@ peer_labs:
     telegram_channel: peerlab_NativeDev, Peer Lab NativeDev Kyiv
 
   - city: Kyiv, Ukraine
-    schedule: Every Sunday, 11:00am
-    location: Mister Cat, Velyka Vasylkivska St, 19, Kyiv, 02000
+    schedule: Selected Sundays
+    location: different cafes, coworkings, see announcements in telegram
     contact_twitter: astronauttux
     contact_email: vadim.yakovliev@gmail.com
-    telegram_channel: peerlab_ios, Peer Lab Kyiv
+    telegram_channel: peerlab_ios, Peer Lab Kyiv iOS
     
   - city: Kyiv, Ukraine
     schedule: Every Sunday, 11:00am
@@ -122,7 +122,14 @@ peer_labs:
     contact_twitter: lyashenkogs
     contact_email: lyashenkogs@gmail.com
     telegram_channel: peerlab_java, Peer Lab Java Kyiv
-
+    
+  - city: Kyiv, Ukraine (Flutter focused)
+    schedule: Selected Sundays
+    location: different cafes, coworkings, see announcements in telegram
+    contact_twitter: astronauttux
+    contact_email: vadim.yakovliev@gmail.com
+    telegram_channel: peerlab_flutter, Peer Lab Kyiv Flutter
+    
   - city: London
     schedule: A Monday every month, 7:00pm
     meetup_url: https://www.meetup.com/swiftlondon/
@@ -252,5 +259,3 @@ peer_labs:
     location: Coffee Culture, 1525 Dundas St E., Whitby ON
     contact_twitter: aaronvegh
     contact_email: aaron@vegh.ca
-
-  
