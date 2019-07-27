@@ -69,12 +69,6 @@ peer_labs:
     meetup_url: https://www.meetup.com/Swift-Peer-Lab/
     contact_email: detroitiOS@detroitlabs.com
 
-  - city: Detroit, Michigan
-    schedule: Approximately monthly
-    location: Detroit Labs, 1520 Woodward Ave, Suite 600, Detroit, MI, 48226
-    meetup_url: https://www.meetup.com/Detroit-Android-Peer-Lab/
-    contact_email: detroitandroid@detroitlabs.com
-
   - city: Düsseldorf, Germany
     schedule: PAUSED until 2018
     location: WOYTON am Tausendfüssler, Berliner Allee 4, 40212 Düsseldorf
