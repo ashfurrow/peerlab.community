@@ -7,6 +7,8 @@ before_install:
   - chmod 600 ~/.netrc
   - git config --global user.email "ash@ashfurrow.com"
   - git config --global user.name "Ash Furrow (via Travis)"
+  # Workaround for Bundler bug.
+  - gem install bundler -v '1.17.1'
 script:
   - bundle exec rake test
   - bundle exec danger
