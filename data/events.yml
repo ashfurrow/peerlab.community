@@ -242,6 +242,12 @@ peer_labs:
     contact_twitter: jimmynhoran
     contact_email: jimmy.horan@outlook.com
 
+  - city: Tbilisi, Sakartvelo (aka Georgia)
+    schedule: Every Sunday, 11:00am
+    location: '"Cybernetics" space, Ana Politkovskaia Street 3, building 30, Saburtalo, 0186 Tbilisi City'
+    contact_email: liferenko@reg.ru
+    telegram_channel: https://t.me/peerlab
+    
   - city: Whitby, ON
     schedule: Every Monday night, 7pm - 10pm
     location: Coffee Culture, 1525 Dundas St E., Whitby ON
