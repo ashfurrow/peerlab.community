@@ -216,8 +216,8 @@ peer_labs:
     telegram_channel: peerlab_rnd, Peer Lab Rostov
     
   - city: Saint-Petersburg, Russia
-    schedule: Every Sunday, 11:00am
-    location: Starbucks, Nevskiy prospekt 114–116(Nevskiy Center), Saint Petersburg, 191025
+    schedule: Every Sunday, 12:00pm
+    location: Surf Coffee, Malaya Konyushennaya Ulitsa, 7, St Petersburg, 191186
     contact_twitter: PeterTheFirst31
     contact_email: petrik199631@gmail.com
     telegram_channel: spbpeerlab, Peer Lab SPB
