@@ -90,12 +90,11 @@ peer_labs:
     contact_email: krest.mike@gmail.com, smetanin23@yandex.ru
     telegram_channel: peerlabkirov, Peer Lab Kirov
 
-  - city: Kyiv(C/C++/Rust-focused), Ukraine
+  - city: Kyiv(C/C++), Ukraine
     schedule: Selected Sundays
     location: different cafes, coworkings, conference-halls, see announcements in telegram
-    meetup_url: https://www.meetup.com/PeerLab-Native-Developers/
     contact_email: 0x00.gear@gmail.com
-    telegram_channel: peerlab_NativeDev, Peer Lab NativeDev Kyiv
+    telegram_channel: peerlab_C_CPP, Peer Lab Kyiv C/C++
 
   - city: Kyiv, Ukraine
     schedule: Selected Sundays
