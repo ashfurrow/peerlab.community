@@ -254,7 +254,7 @@ peer_labs:
     contact_email: nick@gashkov.com
     telegram_channel: peerlabwarsaw, Peer Lab Warsaw
 
-- city: Whitby, ON
+  - city: Whitby, ON
     schedule: Every Monday night, 7pm - 10pm
     location: Coffee Culture, 1525 Dundas St E., Whitby ON
     contact_twitter: aaronvegh
