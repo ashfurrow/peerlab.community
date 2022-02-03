@@ -247,7 +247,13 @@ peer_labs:
     location: 'Shukura cafe, 49 Irakli Abashidze Street, Vake district, 0162 Tbilisi City'
     contact_email: liferenko.it@gmail.com
     telegram_channel: peerlab, Peer Lab Tbilisi
-    
+
+  - city: Warsaw, Poland
+    schedule: Every Sunday, 10:00am
+    location: Starbucks at Aleja Solidarności 82, Warszawa, Polska, 00-144
+    contact_email: nick@gashkov.com
+    telegram_channel: peerlabwarsaw, Peer Lab Warsaw
+
   - city: Whitby, ON
     schedule: Every Monday night, 7pm - 10pm
     location: Coffee Culture, 1525 Dundas St E., Whitby ON
