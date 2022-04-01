@@ -259,3 +259,10 @@ peer_labs:
     location: Coffee Culture, 1525 Dundas St E., Whitby ON
     contact_twitter: aaronvegh
     contact_email: aaron@vegh.ca
+
+  - city: Yerevan, Armenia
+    schedule: Every Sunday, 11:00am
+    location: Keerk & Co, 3A Marshal Baghramyan Ave, Yerevan 0019
+    meetup_url: https://t.me/peerlab_yerevan
+    contact_email: kzvonov@gmail.com
+    telegram_channel: peerlab_yerevan, Peer Lab Yerevan
