@@ -59,7 +59,8 @@ GEM
     fast_blank (1.0.0)
     fastimage (2.1.5)
     ffi (1.9.25)
-    git (1.5.0)
+    git (1.11.0)
+      rchardet (~> 1.8)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
@@ -135,6 +136,7 @@ GEM
     rb-inotify (0.10.0)
       ffi (~> 1.0)
     rb-readline (0.5.5)
+    rchardet (1.8.0)
     sass (3.4.25)
     sassc (2.0.0)
       ffi (~> 1.9.6)
