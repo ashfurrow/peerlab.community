@@ -172,13 +172,6 @@ peer_labs:
     location: Fueled Collective, 568 Broadway, Floor 11
     contact_twitter: PaulLogston
     meetup_url: https://www.meetup.com/learn-python-nyc/
-    
-  - city: Nizhny Novgorod, Russia
-    schedule: Selected Weekdays, 1:00pm
-    location: Turbo City cafe, Bolshaya Pokrovskaya Street, 68
-    meetup_url: https://www.it52.info/
-    contact_twitter: glitterOfHyad
-    telegram_channel: iosnndevs, iOS NN devs
 
   - city: Philadelphia
     schedule: Monthly
