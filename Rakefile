@@ -51,7 +51,7 @@ namespace :yaml do
   task :sort do
     # We're going to assume each entry starts with `- city`, as shown in the README
     contents = File.read("data/events.yml")
-    entries = contents.split("- city: ")[1...-1]
+    entries = contents.split("- city: ").drop(1)
     new_entries = entries
       .map { |e| { name: e.split("\n").first, entry: e }  }
       .sort { |l, r| l[:name] <=> r[:name] }
