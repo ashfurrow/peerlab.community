@@ -157,13 +157,6 @@ peer_labs:
     telegram_channel: psypeerlabforit, Psychological Peer Lab for IT
 
   - city: New York
-    schedule: Every Saturday, 10:30am
-    location: Artsy, 401 Broadway, Floor 25
-    meetup_url: https://www.meetup.com/CocoaPods-NYC/
-    contact_twitter: ashfurrow
-    contact_email: ash@ashfurrow.com
-
-  - city: New York
     schedule: Third Wednesday of the month, 6:30 - 9pm
     meetup_url: https://www.meetup.com/nyc-ios-study-group/
     
