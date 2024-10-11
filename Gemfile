@@ -15,9 +15,6 @@ gem 'middleman-compass', '>= 4.0.0'
 gem 'middleman-gh-pages'
 gem 'rake'
 
-# Necessary for checking PRs on CI.
-gem 'danger'
-
 # To silence Ruby warnings
 gem 'bigdecimal'
 gem 'mutex_m'

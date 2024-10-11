@@ -2,7 +2,7 @@
 
 ## Adding Your Peer Lab
 
-Adding your peer lab is a straightforward process: you need to add it to the [`events.yml`](https://github.com/ashfurrow/peerlab.community/blob/master/data/events.yml) file in this repository. **Make sure the events are sorted** by city name. The only field that's strictly required is the `city`, but the more info you can add the better. Use the existing entries as examples.
+Adding your peer lab is a straightforward process: you need to add it to the [`events.yml`](https://github.com/ashfurrow/peerlab.community/blob/master/data/events.yml) file in this repository. The only field that's strictly required is the `city`, but the more info you can add the better. Use the existing entries as examples.
 
 | Field | Description |
 |-------|-------------|
@@ -17,13 +17,14 @@ Adding your peer lab is a straightforward process: you need to add it to the [`e
 
 ## Contributing
 
-Deploys happen automatically after every merged pull request.
+Deploys happen automatically after every merged pull request via GitHub Actions.
 
 This repository adheres to the [Contributor Covenant 1.4.0](http://contributor-covenant.org/version/1/4/).
 
 ## Getting Set Up for Development
 
 ```sh
+# Install Ruby 3
 git clone https://github.com/ashfurrow/peerlab.community.git
 cd peerlab.community
 bundle install
