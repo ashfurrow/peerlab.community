@@ -18,6 +18,17 @@ gem 'rake'
 # Necessary for checking PRs on CI.
 gem 'danger'
 
+# To silence Ruby warnings
+gem 'bigdecimal'
+gem 'mutex_m'
+gem 'faraday-retry'
+gem 'faraday-multipart'
+gem 'pstore'
+gem 'base64'
+gem 'ostruct'
+gem 'rdoc'
+gem 'csv'
+
 # For easier development
 group :development do
   gem 'rb-readline'
